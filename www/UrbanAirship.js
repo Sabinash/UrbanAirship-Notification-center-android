@@ -1,4 +1,4 @@
-cordova.define("urbanairship-cordova.UrbanAirship", function(require, exports, module) {
+
 /*
  Copyright 2009-2017 Urban Airship Inc. All rights reserved.
 
@@ -883,4 +883,4 @@ alert(id +","+flag);
   }
 }
 
-});
+
